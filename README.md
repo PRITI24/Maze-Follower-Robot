@@ -1,7 +1,7 @@
 # Maze-Follower-Robot
 Maze Following(Solving white Line path in black space)
 # maze
-![alt text](https:)//upload.wikimedia.org/wikipedia/en/a/a0/Simple_Maze.svg)
+![alt text](https://upload.wikimedia.org/wikipedia/en/a/a0/Simple_Maze.svg)
 # THOUGHT OF METHODS FOR DOING IT
 # 1.Using lsa08
 FIRST IDEA CAME TO MY MIND WAS OBVIOUSLY IR SENSORS BUT I JUST STUDIED ABOUT LSA08 THEN…..AND I THOUGHT LSA08 WOULD BE MRE EFFICIENT IN MY PROJECT BECAUSE USING PID CONTROLLER,I CAN CONTROL MY MOTIONS PERFECTLY WITHOUT ANY FLUCTUATIONS……WHICH MAY HAPPEN WITH IR SENSORS….AND WHICH ACTUALLY HAPPENED…..
