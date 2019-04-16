@@ -1,5 +1,6 @@
 # Maze-Follower-Robot
 Maze Following(Solving white Line path in black space)
+# maze
 ![alt text](https:)//upload.wikimedia.org/wikipedia/en/a/a0/Simple_Maze.svg)
 # THOUGHT OF METHODS FOR DOING IT
 # 1.Using lsa08
